@@ -4,7 +4,9 @@
 __微信：__ _NateIT_  
 __邮箱：__ _netpod@hanyunintel.com_
 
-[下载部署包](http://hymonitor.tpddns.cn:8888/#/)
+### 下载部署包  
+链接：https://pan.baidu.com/s/1WIZyPvW-Jh-aE8Qrg-DUbQ   
+提取码：ah8j
 
 运维报告的编写、巡检报告编制、运维资产统计、运维性能报告编写等均是运维人员的常态化工作之一。如何高效的编写运维报告，快速生成运维报表，解放运维人员的时间，就需要相应的运维工具这把利剑了。
 
